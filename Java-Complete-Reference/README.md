@@ -8,7 +8,7 @@
 Chapter | Title | Done
 ------- | ----- | ----
 01 | Introduction & Installation | :heavy_check_mark:
-02 | DataTypes, Variables, and Arrays | 
+02 | DataTypes, Variables, and Arrays | :heavy_check_mark:
 03 | Operators | 
 04 | Control Statements | 
 05 | Introducing Class | 
